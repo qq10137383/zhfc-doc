@@ -58,7 +58,7 @@ zhfc-cli create byfz
 VUE_APP_BASE_API = 'http://81.71.162.135:81/spfjy/'
 ```
 ::: warning
-此地址可能不可用，不可用时请更换实际项目地址。
+此地址为测试地址，不可用时请更换实际项目地址。
 :::
 
 2. 启动主项目

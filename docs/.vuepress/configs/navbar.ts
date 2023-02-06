@@ -8,6 +8,10 @@ export const navbar: NavbarConfig = [
     },
     {
         text: '配置',
-        link: "/configuration/reference.html"
+        link: "/configuration/subsystem.html"
+    },
+    {
+        text: 'API',
+        link: "/api/intro.html"
     }
 ]

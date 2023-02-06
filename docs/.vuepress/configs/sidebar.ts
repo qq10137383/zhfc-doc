@@ -17,7 +17,22 @@ export const sidebar: SidebarConfig = {
         {
             text: "配置",
             children: [
-                "/configuration/reference.md"
+                "/configuration/subsystem.md",
+                "/configuration/subproject.md"
+            ]
+        }
+    ],
+    "/api": [
+        {
+            text: "API",
+            children: [
+                "/api/intro.md",
+                "/api/auth.md",
+                "/api/user.md",
+                "/api/emitter.md",
+                "/api/tagsview.md",
+                "/api/microapp.md",
+                "/api/options.md",
             ]
         }
     ]

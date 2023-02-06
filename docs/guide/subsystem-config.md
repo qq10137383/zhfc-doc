@@ -19,7 +19,7 @@
    - icon：子系统图标，显示在主项目系统切换菜单栏的图标。
 :::
 
-扩展配置示例，更多配置请参考 [子系统扩展配置](../configuration/reference.md#子系统扩展配置) ：
+扩展配置示例，更多配置请参考 [子系统扩展配置](../configuration/subsystem.md#子系统扩展配置) ：
 
 ``` json
 { 
@@ -47,7 +47,7 @@
    - icon: 菜单组或菜单项图标，显示在显示在主项目菜单栏的图标。
 ::: 
 
-扩展配置示例，扩展配置还支持 `vue-admin-template` 中 `router` 定义的所有配置，更多配置请参考 [子系统扩展菜单配置](../configuration/reference.md#子系统菜单扩展配置) ：
+扩展配置示例，扩展配置还支持 `vue-admin-template` 中 `router` 定义的所有配置，更多配置请参考 [子系统扩展菜单配置](../configuration/subsystem.md#子系统菜单扩展配置) ：
 
 ``` json
 { 
